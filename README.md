@@ -4,7 +4,7 @@ This model was used for my entry for the Mangaki Data Challenge (http://research
 
 Based on DeepRecommender from NVIDIA (https://github.com/NVIDIA/DeepRecommender)
 
-##What I learned:
+## What I learned:
 
 - A model that works well for the Netflix dataset *might* not work for another one (not enough data)
 - Tensorflow doesn't like sparse data. It's still very difficult to load sparse matrices even with the new Datasets API
